@@ -10,7 +10,9 @@ Prerequisites
  * pip
  * boto
 
-Install using:
+Installation
+============
+
     pip install git+https://github.com/Woutertje/what.git
     pip install git+https://github.com/Woutertje/snaps.git
 
