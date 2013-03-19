@@ -1,10 +1,17 @@
 snaps
 =====
 
-snaps is AWS snapshots for the braindead. 
+snaps is Amazon WebServices EC2 snapshots for the braindead. 
+
+Prerequisites
+=============
+ * Shellaccess to Amazon Linux/FreeBSD/...-instance
+ * python 2.6+
+ * pip
+ * boto
 
 Install using:
-
+    pip install git+https://github.com/Woutertje/what.git
     pip install git+https://github.com/Woutertje/snaps.git
 
 What does it do?
