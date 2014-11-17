@@ -13,8 +13,8 @@ Prerequisites
 Installation
 ============
 
-    pip install git+https://github.com/Woutertje/what.git
-    pip install git+https://github.com/Woutertje/snaps.git
+    pip install git+https://github.com/wouteroostervld/what.git
+    pip install git+https://github.com/wouteroostervld/snaps.git
 
 What does it do?
 ================
